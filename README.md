@@ -9,6 +9,6 @@
 - 😎 Curiosity: I love learning new languages, and curious.
 
 
-![Luiza Assis' GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaAssiS57&show_icons=true&theme=radical)
+[![Luiza Assis' GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaAssiS57&show_icons=true&theme=radical)](url)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaAssiS57&layout=compact&theme=radical)
