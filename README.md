@@ -1,7 +1,13 @@
-# Hi there 👋 I'm Luiza Assis
+#👋 Hello World, I'm Luiza Assis
 :computer: Sou desenvolvedora FullStack!
 :house_with_garden: Estou no Brasil.
-:books: Atualmente aprendendo sobre desenvolvimento e banco de dados.
+:books: Atualmente aprendendo sobre desenvolvimento e ciência de dados.
+
+## About me
+
+- 👩‍💻 In love with Data Science.
+- 😎 Curiosity: I love learning new languages, kinda of a self-taught programmer, and curious.
+
 
 ![Luiza Assis' GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaAssiS57&show_icons=true&theme=radical)
 
