@@ -7,6 +7,7 @@
 
 - 👩‍💻 In love with Data Science.
 - 😎 Curiosity: I love learning new languages, and curious.
+- You can reach me at luizaassisft@gmail.com
 
 
 [![Luiza Assis' GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizaAssiS57&show_icons=true&theme=radical)](url)
