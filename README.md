@@ -6,7 +6,7 @@
 ## About me
 
 - 👩‍💻 In love with Data Science.
-- 😎 Curiosity: I love learning new languages, and curious.
+- 😎 Curiosity: I love learning new languages.
 - You can reach me at luizaassisft@gmail.com
 
 
