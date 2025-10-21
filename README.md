@@ -1,7 +1,7 @@
 ## 👋 Hello World, I'm Luiza Assis
 - :computer: Sou desenvolvedora FullStack!
 - :house_with_garden: Estou no Brasil.
-- :books: Atualmente cursando desenvolvimento de sistema no Senai.
+- :books: Atualmente cursando Desenvolvimento de Sistema no Senai.
 
 ## About me
 
